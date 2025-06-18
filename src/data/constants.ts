@@ -1,12 +1,12 @@
 // thoda zada ts ho gya idhar
 export enum SkillNames {
-  AWS = "aws",
+  // AWS = "aws",
   // AZURE = "azure",    // +
   LINUX = "linux",    
   // SHELL = "shell",    // +
   // PYTHON = "python",  // +
   GIT = "git",
-  DOCKER = "docker",
+  // DOCKER = "docker",
   // SELENIUM = "selenium",  // +
   // JENKINS = "jenkins",    // +
   // KUBERNETES = "kubernetes",  // +
@@ -35,8 +35,8 @@ export enum SkillNames {
   GITHUB = "github",   //
   PRETTIER = "prettier",  //
   NPM = "npm",       //
-  FIREBASE = "firebase",  //
-  WORDPRESS = "wordpress",  //
+  // FIREBASE = "firebase",  //
+  // WORDPRESS = "wordpress",  //
   // NGINX = "nginx",      //
   // VIM = "vim",           //
   VERCEL = "vercel",    //
