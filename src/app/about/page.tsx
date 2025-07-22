@@ -49,8 +49,8 @@ const CONTACT_LINKS = [
   },
   {
     name: "Phone",
-    content: "1234567890",
-    href: "tel:8308509180",
+    content: "+91 6283847013",
+    href: "tel:6283847013",
     icon: <FaPhone height={"50px"} />,
   },
   {
@@ -104,24 +104,24 @@ const TOOLS = [
     icon: <FaReact size={"50px"} color="#61dafb" />,
     color: "#61dafb",
   },
-  {
-    name: "Docker",
-    content: "Next.js is a React framework for production",
-    icon: <FaDocker size={"50px"} color="#2496ed" />,
-    color: "#2496ed",
-  },
-  {
-    name: "NginX",
-    content: "Next.js is a React framework for production",
-    icon: <DiNginx size={"50px"} color="#008000" />,
-    color: "#008000",
-  },
-  {
-    name: "Vue.js",
-    content: "Next.js is a React framework for production",
-    icon: <FaVuejs size={"50px"} color="#41b883" />,
-    color: "#41b883",
-  },
+  // {
+  //   name: "Docker",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaDocker size={"50px"} color="#2496ed" />,
+  //   color: "#2496ed",
+  // },
+  // {
+  //   name: "NginX",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiNginx size={"50px"} color="#008000" />,
+  //   color: "#008000",
+  // },
+  // {
+  //   name: "Vue.js",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaVuejs size={"50px"} color="#41b883" />,
+  //   color: "#41b883",
+  // },
   {
     name: "Express.js",
     content: "Next.js is a React framework for production",
@@ -170,12 +170,12 @@ const TOOLS = [
     icon: <SiVisualstudiocode size={"50px"} color="#007acc" />,
     color: "#007acc",
   },
-  {
-    name: "VIM",
-    content: "Next.js is a React framework for production",
-    icon: <DiVim size={"50px"} color="#fff" />,
-    color: "#000000",
-  },
+  // {
+  //   name: "VIM",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiVim size={"50px"} color="#fff" />,
+  //   color: "#000000",
+  // },
   {
     name: "Prettier",
     content: "Next.js is a React framework for production",
@@ -206,13 +206,13 @@ const TOOLS = [
     icon: <FaLinux size={"50px"} color="#fff" />,
     color: "#000000",
   },
-  {
-    name: "Kubuntu",
-    content: "Next.js is a React framework for production",
-    // give me correct color for  kubuntu
-    icon: <SiKubuntu size={"50px"} color="#0077C4" />,
-    color: "#000000",
-  },
+  // {
+  //   name: "Kubuntu",
+  //   content: "Next.js is a React framework for production",
+  //   // give me correct color for  kubuntu
+  //   icon: <SiKubuntu size={"50px"} color="#0077C4" />,
+  //   color: "#000000",
+  // },
   {
     name: "Terminal",
     content: "Next.js is a React framework for production",
@@ -251,7 +251,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">Naresh Khatri</p>
+                <p className="text-center text-xl">Vikram Gupta</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Web Developer
                 </div>
@@ -293,8 +293,7 @@ contribute to real-world projects, collaborate with teams, and continuously grow
 development..
             </p>
             <p className="mb-10">
-              When I&apos;m not coding, you can find me [Your
-              Interests/Hobbies], exploring new technologies, or sipping coffee
+              When I&apos;m not coding, you can find me Playing Games, Travelling around the world , exploring new technologies, or sipping coffee
               while brainstorming my next project.
             </p>
             <h1 className="text-3xl mb-10 lg:md-20">Stuff I use</h1>

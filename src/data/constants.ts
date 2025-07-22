@@ -49,6 +49,7 @@ export type Skill = {
   color: string;
   icon: string;
 };
+
 export const SKILLS: Record<SkillNames, Skill> = {
   [SkillNames.JS]: {
     id: 1,

@@ -8,7 +8,7 @@ const links: Link[] = [
   },
   {
     title: 'About',
-    href: '/#about',
+    href: '/about',
     thumbnail: '/assets/nav-link-previews/about.png'
   },
   {
@@ -18,7 +18,7 @@ const links: Link[] = [
   },
   {
     title: 'Projects',
-    href: '/#projects',
+    href: '/projects',
     thumbnail: '/assets/nav-link-previews/projects.png'
   },
   // {
@@ -38,7 +38,7 @@ const links: Link[] = [
   // },
   {
     title: 'Contact',
-    href: '/#contact',
+    href: '/contact',
     thumbnail: '/assets/nav-link-previews/contact.png'
   }
 ];
