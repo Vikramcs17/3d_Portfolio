@@ -36,12 +36,12 @@ const SocialMediaButtons = () => {
   const show = useInView(ref, { once: true });
   return (
     <div ref={ref} className="z-10">
-      {/* {show &&
+      {show &&
         BUTTONS.map((button) => (
           <Link href={button.href} key={button.name} target="_blank">
             <Button variant={"ghost"}>{button.icon}</Button>
           </Link>
-        ))} */}
+        ))}
     </div>
   );
 };
